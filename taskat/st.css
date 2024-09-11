@@ -1,0 +1,18 @@
+.img1, .img2, .img3{
+    
+    display: block;
+    margin-left:3%;
+   
+}
+figcaption{
+    
+    margin-left:3%;
+}
+.f{
+    
+    width: 700px;
+    border: 1px solid black;
+    padding: 20px;
+    margin: 20px;
+
+}
